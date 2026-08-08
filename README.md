@@ -14,7 +14,7 @@ Build Instructions
 
 1. Use an ESP32-C3 development board with Wi-Fi, BLE, and an onboard LED.
 2. Install the ESP-IDF development environment.
-3. Create the AmbientPulse project with separate modules for:
+3. Create the AirAware project with separate modules for:
     * Configuration
     * Wi-Fi scanning
     * BLE scanning
